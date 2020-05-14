@@ -6,8 +6,6 @@
   "scripts": {
     "start": "node bot.js"
   },
-  "requires": true, {
-  "lockfileVersion": 1,
   "dependencies": {
     "discord.js": {
       "version": "11.1.0",
