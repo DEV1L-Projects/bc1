@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
   const client = new Discord.Client();
       client.on('ready', () => {
-        client.user.setGame(`Lithium Server :D`);
+        client.user.setGame(`Lithium Server`);
           console.log('Im Ready!');
   
         });
