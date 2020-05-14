@@ -1,6 +1,8 @@
 {
   "name": "Broadcast",
   "description": "Broadcast Members Of Server",
+  "requires": true,
+  "lockfileVersion": 1,
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
